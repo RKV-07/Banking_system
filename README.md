@@ -1,3 +1,5 @@
 ``` Readme,md file
-https://markdownlivepreview.dev/
+  # Bank Account Management System
+
+A beginner-friendly Java application that demonstrates core Object-Oriented Programming principles through a practical banking system implementation.
 ```
