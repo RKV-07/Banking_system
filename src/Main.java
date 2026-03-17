@@ -27,7 +27,7 @@ public class Main {
             System.out.println("3.Deposit Money");
             System.out.println("4.Withdraw Money");
             System.out.println("5.Check Balance ");
-            System.out.println("View Transaction History");
+            System.out.println("6.View Transaction History");
             System.out.println("7.Apply Intrest (Savings)");
             System.out.println("8.View All Accounts");
             System.out.println("9.Exit");
