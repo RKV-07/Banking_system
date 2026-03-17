@@ -33,7 +33,7 @@ The Bank Account Management System is a console-based Java application that simu
 -  Perfect for Java beginners transitioning from Python
 -  Clean, well-documented code with OOP best practices
 
-## ✨ Features
+##  Features
 
 | Feature | Description | OOP Concept |
 |---------|-------------|-------------|
@@ -89,16 +89,16 @@ public void withdraw(double amount) {
 
 ```
 bank-management-system/
-├── 📂 src/
-│   ├── 📂 models/           # Core business entities
-│   │   ├── Account.java         🏛 Abstract base class
-│   │   ├── SavingsAccount.java  💰 Savings account implementation
-│   │   └── CurrentAccount.java  💳 Current account implementation
-│   ├── 📂 services/         # Business logic
-│   │   └── BankService.java     🏦 Main banking operations
-│   └── Main.java               🚀 Application entry point
-├── README.md                  📖 This file
-└── .gitignore                🔒 Git ignore rules
+├──  src/
+│   ├──  models/           # Core business entities
+│   │   ├── Account.java          Abstract base class
+│   │   ├── SavingsAccount.java   Savings account implementation
+│   │   └── CurrentAccount.java   Current account implementation
+│   ├──  services/         # Business logic
+│   │   └── BankService.java      Main banking operations
+│   └── Main.java                 Application entry point
+├── README.md                    This file
+└── .gitignore                 Git ignore rules
 ```
 
 ##  Installation & Setup
