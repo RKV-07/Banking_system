@@ -1,11 +1,11 @@
-``` Readme,md file
+
   #  Bank Account Management System
 
 A beginner-friendly Java application that demonstrates core Object-Oriented Programming principles through a practical banking system implementation.
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![OOP](https://img.shields.io/badge/OOP-Encapsulation%20%7C%20Inheritance-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/license-%20%20GNU%20GPLv3%20-green?style=plastic)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 ##  Table of Contents
@@ -305,7 +305,7 @@ Contributions are welcome! Here's how you can help:
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
 
 ##  Author
 
