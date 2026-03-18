@@ -307,13 +307,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
 
-##  Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
 ##  Acknowledgments
 
 - Inspired by real-world banking systems
